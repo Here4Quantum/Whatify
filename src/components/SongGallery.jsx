@@ -1,4 +1,5 @@
 import React from "react";
+import SongButton from './songbutton'
 import Book from "../images/book.jpg";
 
 function SongGallery() {
@@ -8,14 +9,17 @@ function SongGallery() {
     <div className="column middle">
       <h1 className="todaylistening-title">Whatify listened to this today!</h1>
       <div className="todaylistening">
-        <button className="song-button">
-          <div className="song">
-            <p className="song-title">If I was an algorithm</p>
-            <img src={Book} alt="albumCover" className="centre" />
-            <p className="song-desc">By: Nerds w/ words</p>
-            <p className="song-desc">Genre: rap</p>
-          </div>
-        </button>
+           <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
+           <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
+           <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
+           <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
+           <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
+           <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
+           <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
+           <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
+           <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
+           <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
+           <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
       </div>
     </div>
   );
