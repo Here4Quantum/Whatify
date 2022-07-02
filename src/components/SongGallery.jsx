@@ -20,6 +20,22 @@ function SongGallery() {
            <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
            <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
            <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
+           <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
+           <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
+           <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
+           <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
+           <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
+           <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
+           <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
+           <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
+           <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
+           <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
+           <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
+           <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
+           <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
+           <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
+           <SongButton title={'If I was an algorithm'}  img={Book} by={'Nerds w/ Words'} genre={'rap'}/>
+
       </div>
     </div>
   );
